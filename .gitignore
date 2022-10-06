@@ -1,0 +1,43 @@
+# Created by https://www.toptal.com/developers/gitignore/api/r
+# Edit at https://www.toptal.com/developers/gitignore?templates=r
+
+#Para arquivos HTML:
+*.html
+
+#Para arquivos LaTeX:
+*.tex
+
+#Para arquivos de enunciado:
+*Ex.pdf
+
+# Para csvs
+*.csv
+*.tsp
+
+
+#Para database:
+data/
+images/
+instances/
+
+### R ###
+# History files
+.Rhistory
+.Rapp.history
+
+
+# Output files from R CMD build
+/*.tar.gz
+*.zip
+
+
+### R.Bookdown Stack ###
+# R package: bookdown caching files
+/*_files/
+
+
+#ipynb:
+.ipynb_checkpoints/
+
+
+
