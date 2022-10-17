@@ -29,6 +29,7 @@ instances/
 # Output files from R CMD build
 /*.tar.gz
 *.zip
+*/.idea
 
 
 ### R.Bookdown Stack ###
