@@ -18,4 +18,4 @@ The local search algorithms used were:
   - 2-Opt;
   - 3-Opt.	
 
-
+3. TP3 - Implementation of Genetic Algorithm applied on the Traveling Salesman Problem (TSP). 
