@@ -19,3 +19,13 @@ The local search algorithms used were:
   - 3-Opt.	
 
 3. TP3 - Implementation of Genetic Algorithm applied on the Traveling Salesman Problem (TSP). 
+
+4. Final Work - Implementation of heuristics for the Capacitated Vehicle Routing Problem (CVRP).
+Methods:
+  - Nearest Neighbor with capacity;
+  - Sweep Nearest Algorith.
+  - Sweep + Cheapest Insertion
+  - Sweep + Nearest Insertion
+  - Sweep + Farthest Insertion
+
+
